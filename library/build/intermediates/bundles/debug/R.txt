@@ -1,0 +1,2 @@
+int raw blank_html 0x7f020000
+int string default_encoding 0x7f030000
